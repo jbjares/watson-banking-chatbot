@@ -6,12 +6,13 @@
 
 body {
     background-color: white;
-    background-image: url("../img/OFN.jpg");
+    background-image: url("../img/boi-page-img.png");
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
  	margin: 0;
   	padding: 0;
+    padding-bottom: auto;
   	background-size:cover;
   	}
 
